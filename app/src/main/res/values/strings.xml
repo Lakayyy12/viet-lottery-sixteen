@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Xổ số An Giang APP</string>
+
+    <string name="glo1">Tương tự như một khoản thế chấp, Annuities đôi khi được sử dụng bởi xổ số để tăng giải đặc biệt vượt quá khả năng tài chính của họ. Những người trúng giải độc đắc được hỗ trợ hàng năm sẽ nhận được số tiền thắng cược của họ tăng dần trong một khoảng thời gian, thường là 20 hoặc 25 năm.</string>
+
+    <string name="glo2">Điều này có thể áp dụng cho bất kỳ trò chơi nào có người chiến thắng một lần mỗi ngày, nhưng nó thường đề cập đến trò chơi số như trò chơi (Hàng ngày 3) hoặc (Hàng ngày 4)phổ biến ở nhiều tiểu bang.</string>
+    <string name="glo3"> Giải thưởng lớn của trò chơi xổ số hoặc xổ số. Thông thường, giải đặc biệt là Parimutuels (xem bên dưới). Nếu không thắng trong bức vẽ sau, chúng sẽ lăn lộn và phát triển về kích thước / số lượng cho bức vẽ sau.
+</string>
+    <string name="glo4">Một trò chơi xổ số trong đó một nhóm lớn các con số được chọn ngẫu nhiên, thường là 20 con số (thường là 80). Người chơi chọn một bộ số từ trường chính (thường là tối thiểu 3 số và tối đa là 10 số) và được trao giải thưởng theo tỷ lệ phần trăm số lần các số đã chọn của họ khớp với bộ được rút ra.</string>
+    <string name="glo5">Một trò chơi mà vé được mua bằng mạng máy tính tại các điểm bán lẻ. Cược được ghi lại trên một máy tính trung tâm được kết nối với các thiết bị đầu cuối. Xổ số, Keno và trò chơi số là một vài ví dụ về trò chơi trực tuyến.</string>
+    <string name="glo6">Một trò chơi xổ số tương tự như xổ số, trong đó người tham gia mua vé có số in sẵn. Những người chiến thắng sau đó được chọn ngẫu nhiên bằng xổ số và so sánh với các con số trên vé của người chơi.</string>
+    <string name="glo7">Một trong các tùy chọn Xổ số Powerball. Với tùy chọn Power Play, người chơi có khả năng tăng tiền thắng cược của họ (ngoài giải độc đắc) lên đến 5 lần. Bạn có thể chọn Power Play để trả thêm $ 1 cho mỗi lần chơi.</string>
+    <string name="glo8">Một trò chơi kiểu xổ số khác. Để đủ điều kiện giành được một phần hàng hóa, người chơi phải đục một ô trên bảng. Bảng đấm với phần thưởng tiền mặt cũng là một điển hình.</string>
+    <string name="glo9">Một cuộc cá cược trong đó ba hoặc bốn số phải được rút ra chính xác theo thứ tự đó. Người tham gia cố gắng khớp các số được rút ra cũng như thứ tự mà họ được chọn.</string>
+    <string name="glo10">Một hệ thống máy tính được sử dụng bởi nhà bán lẻ xổ số để xác thực vé số trúng thưởng, vé trò chơi trực tuyến và trò chơi tức thì cũng như để bán vé số và trò chơi trực tuyến. Đường dây điện thoại liên kết thiết bị đầu cuối với máy tính trung tâm của xổ số.</string>
+    <string name="back_button">buttonB</string>
+    <string name="terms">Đây là một số thuật ngữ xổ số
+Bấm vào nút dưới đây để xem …</string>
+    <string name="policy"><![CDATA[Chính sách và Điều khoản & Điều kiện]]></string>
+
+    <string name="pri1">Chào mừng bạn đến với thông báo bảo mật cho Xổ số Đà Lạt APP.
+Xổ số Đà Lạt luôn cam kết bảo mật những thông tin cá nhân của bạn và tôn trọng quyền riêng tư của bạn. Thông báo về quyền riêng tư này sẽ giải thích cách chúng tôi xử lý dữ liệu cá nhân của bạn khi bạn truy cập trang web của chúng tôi (độc lập với việc bạn truy cập từ đâu), cũng như các quyền riêng tư của bạn và các biện pháp bảo vệ pháp lý được áp dụng để đảm bảo an toàn cho bạn.
+Bạn có thể nhấp qua các phần khác nhau của thông báo bảo mật được liệt kê bên dưới vì nó được trình bày theo kiểu nhiều lớp. Bằng cách nhấp vào biểu tượng ở cuối trang này, bạn cũng có thể in bản sao của thông báo. Để hiểu rõ hơn các định nghĩa của bất kỳ cụm từ nào được đề cập trong thông báo về quyền riêng tư này, vui lòng tham khảo Bảng chú giải thuật ngữ.</string>
+    <string name="pri2">Bảo mật thông tin cá nhân của bạn là rất quan trọng đối với chúng tôi. Chúng tôi tuân thủ các tiêu chuẩn ngành được chấp nhận chung, bao gồm các biện pháp bảo vệ hành chính, vật lý và kỹ thuật thích hợp để ngăn chặn việc sử dụng, truy cập, thay đổi hoặc tiết lộ trái phép dữ liệu cá nhân của bạn. Ngoài ra, chúng tôi chỉ cho phép nhân viên, đại lý, nhà thầu và các bên thứ ba khác có nhu cầu kinh doanh biết quyền truy cập vào thông tin cá nhân của bạn. Họ có nghĩa vụ duy trì tính bảo mật và sẽ chỉ xử lý thông tin cá nhân của bạn theo chỉ dẫn của chúng tôi.</string>
+    <string name="pri3">Để cung cấp cho bạn dịch vụ / sản phẩm tốt nhất và trải nghiệm tốt nhất và an toàn nhất, chúng tôi có lợi nhất là điều hành và quản lý công ty của mình với lợi ích hợp pháp. Trước khi chúng tôi xử lý dữ liệu cá nhân của bạn cho các mục đích hợp pháp của mình, chúng tôi đảm bảo rằng chúng tôi sẽ tính đến và cân nhắc mọi tác động tiềm ẩn đối với bạn (cả tích cực và tiêu cực). Chúng tôi không sử dụng thông tin cá nhân của bạn cho những việc mà tác động đến bạn sẽ lớn hơn lợi ích của chúng tôi (trừ khi chúng tôi có sự đồng ý của bạn hoặc được yêu cầu hoặc cho phép của pháp luật).
+Bằng cách liên hệ với chúng tôi, bạn có thể tìm hiểu thêm về cách chúng tôi cân nhắc lợi ích hợp pháp của mình so với bất kỳ ảnh hưởng nào có thể xảy ra đối với bạn liên quan đến các hoạt động cụ thể.
+Thực hiện hợp đồng đề cập đến việc sử dụng dữ liệu của bạn để thực hiện hợp đồng mà bạn là một bên hoặc thực hiện hành động theo yêu cầu của bạn trước khi giao kết hợp đồng.
+Xử lý dữ liệu cá nhân của bạn để tuân thủ yêu cầu pháp lý hoặc quy định có nghĩa là chúng tôi phải làm như vậy để hoàn thành nghĩa vụ mà chúng tôi phải tuân theo.</string>
+
+    <string name="toc1">Các cá nhân dưới mười tám tuổi (18) không được phép sử dụng Trang web (hoặc bất kỳ độ tuổi áp dụng cao hơn nào ở quốc gia có liên quan). Bạn không được phép tạo Tài khoản (được mô tả bên dưới) hoặc sử dụng Dịch vụ nếu độ tuổi của bạn dưới 18 (hoặc bất kỳ độ tuổi áp dụng nào cao hơn) (được định nghĩa bên dưới).</string>
+    <string name="toc2">Trong những trường hợp thích hợp, chúng tôi có quyền chấm dứt Tài khoản của Người dùng và / hoặc quyền truy cập vào Trang web và giữ lại bất kỳ giải thưởng nào còn lại nếu chúng tôi biết được thông qua các kênh đáng tin cậy rằng Người dùng dưới 18 tuổi (hoặc độ tuổi áp dụng cao hơn ).</string>
+    <string name="toc3">Bạn có nhiệm vụ truy cập và sử dụng Trang web cũng như các Dịch vụ tuân theo Điều khoản, tất cả các luật và quy định có liên quan cũng như Chính sách trò chơi có trách nhiệm (xem phần 13). Bạn có nhiệm vụ đảm bảo rằng việc sử dụng Trang web và Dịch vụ của bạn từ quốc gia nơi bạn đang chơi là được phép.
+
+Trang web dành riêng cho việc sử dụng cá nhân và các hoạt động giải trí.</string>
+
+    <string name="toc4">Vì Xổ số An Giang APP nhằm mục đích quảng bá trò chơi và cá cược có trách nhiệm, chúng tôi cấm bất kỳ ai dưới 18 tuổi (hoặc độ tuổi hợp pháp ở quốc gia có liên quan) mở tài khoản, sử dụng dịch vụ của chúng tôi hoặc mua Trò chơi Win liền; và (ii) cấm bất kỳ ai dưới 21 tuổi đăng ký tài khoản Xổ số Đà Lạt (ii) chủ trương rằng tất cả Người dùng đặt ra các hạn chế đối với quyền truy cập của họ vào Rút thăm Xổ số và Trò chơi Trúng ngay; và (iii) không đề nghị Người dùng sử dụng Xổ số hoặc Trò chơi Giành ngay làm phương tiện trả nợ hoặc như một nguồn thu nhập. Chúng tôi khuyên bạn nên ngừng sử dụng và đóng Tài khoản của mình bằng cách sử dụng Công cụ Trang web mà chúng tôi cung cấp trên Trang web nếu bạn tin rằng bạn đang sử dụng Dịch vụ của chúng tôi hoặc mua Trò chơi Instant Win một cách thiếu trách nhiệm. Chúng bao gồm những điều sau:</string>
+    <string name="toc41">• Bạn có tùy chọn, theo quyết định của mình, để hạn chế số tiền bạn có thể gửi trong một khoảng thời gian nhất định bằng cách sử dụng các công cụ của Trang web.</string>
+    <string name="toc42">• Bạn có thể tự do quyết định thời gian bạn có thể đăng nhập vào trang web trong một phiên duy nhất. Bạn sẽ đăng xuất khỏi trang web và bất kỳ trò chơi nào vẫn đang diễn ra sau khi khoảng thời gian này trôi qua.</string>
+    <string name="toc43">• Sử dụng các khả năng trên Trang web, bạn có thể quyết định có dành cho mình thời gian tạm dừng cho bất kỳ việc gì từ một ngày đến sáu tuần hay không. Bạn sẽ không thể chơi, gửi tiền, đặt hàng hoặc mua bất cứ thứ gì vào lúc này.</string>
+    <string name="toc44">• Bạn có tùy chọn để thiết lập một kiểm tra thực tế, chỉ có sẵn cho Trò chơi Thắng tức thì, theo lựa chọn của bạn. Kiểm tra thực tế tạm dừng chơi mỗi giờ và hiển thị thời gian bạn đã chơi, cùng với số tiền thắng và thua của bạn, trong suốt thời gian đó.</string>
+    <string name="toc45">• Sử dụng các tính năng trên Trang web, bạn có thể chọn cấm mình chơi trong một khoảng thời gian nhất định hoặc vô thời hạn, trong thời gian đó, bạn sẽ không thể truy cập vào Tài khoản của mình.</string>
+    <string name="button_next">next_page</string>
+    <string name="terms_and_policy"><![CDATA[Chính sách bảo mật & Các điều khoản và điều kiện]]></string>
+    <string name="button" />
+    <string name="splash">splash_screen</string>
+
+    <string name="t1">Phần lớn người chơi chọn số lotto của họ chỉ dựa trên ngày sinh của họ, có nghĩa là bạn có thể sẽ phải
+    chia giải độc đắc với một số người trúng giải khác. Điều này thể hiện một bất lợi "thứ yếu". Tốt hơn là nên bao gồm
+    ít nhất một số cao trong tất cả các lựa chọn của bạn.</string>
+<string name="t2">Bạn có thể giành được các giải thưởng khác ngoài giải độc đắc. Lễ bốc thăm cũng bao gồm một số
+        giải thưởng ít hơn. Bạn phải giữ phần lớn số tiền của mình cho riêng mình nếu bạn thắng. Phát lại tất cả các
+        khoản thu nhập của bạn, bất kể khiêm tốn đến mức nào, sẽ không giúp ích được gì.</string>
+<string name="t3">Hãy nhớ rằng chiến thắng của giải độc đắc xổ số phụ thuộc hoàn toàn vào may mắn.
+        Để giành chiến thắng, tất cả những gì bạn cần là một bộ số. Một vài tùy chọn bổ sung có thể mang lại
+        cho bạn thêm hy vọng và cải thiện tâm trạng của bạn, điều này thật tốt. Chơi quá nhiều lựa chọn liên
+        quan đến việc đặt cược với
+        tỷ lệ cược rất dài. Thường xuyên tham gia vào các hành vi như vậy là không nên.</string>
+<string name="t4">Bạn chỉ cần thắng xổ số một lần, mặc dù tỷ lệ cược rất cao. Ngoài ra, những người thường
+        xuyên luôn giành được nó trong các trận hòa. Bạn có thể giành được giải thưởng tiếp theo.</string>
+</resources>

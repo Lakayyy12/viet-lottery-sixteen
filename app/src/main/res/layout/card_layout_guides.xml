@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardView"
+    android:layout_margin="5dp"
+    android:elevation="3dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/relativeLayout"
+        android:orientation="horizontal"
+        android:background="@drawable/gradient"
+        android:padding="16dp">
+
+        <ImageButton
+            android:id="@+id/arrowR"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="@drawable/border1"
+            android:src="@drawable/ic_casino"
+            android:backgroundTint="#FF3D00"
+            android:scaleType="fitXY"/>
+
+        <TextView
+            android:id="@+id/header"
+            android:layout_width="236dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="20dp"
+            android:text="ONYOK"
+            android:gravity="center_vertical"
+            android:textSize="20dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:shadowColor="#00B0FF"
+            android:shadowRadius="5"/>
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
